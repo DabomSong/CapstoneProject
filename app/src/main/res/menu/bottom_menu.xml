@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Home"
+        android:enabled="true"
+        android:id="@+id/menu_home"
+        android:icon="@drawable/_844470_home_house_icon" />
+    <item
+        android:title="CCTV"
+        android:enabled="true"
+        android:id="@+id/menu_cctv"
+        android:icon="@drawable/_613295_and_camera_cctv_crime_protection_icon" />
+    <item
+        android:title="Employee"
+        android:enabled="true"
+        android:id="@+id/menu_employee"
+        android:icon="@drawable/_218124_search_career_work_job_recruitment_icon" />
+    <item
+        android:title="User"
+        android:enabled="true"
+        android:id="@+id/menu_user"
+        android:icon="@drawable/_340287_man_people_person_user_users_icon" />
+</menu>
